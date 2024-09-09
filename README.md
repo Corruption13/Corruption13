@@ -1,5 +1,5 @@
 ## The early worm gets eaten by the bird.
-#### 😞
+#### Retired from Github since 2022 😞
 
 <!--
 **Corruption13/Corruption13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
